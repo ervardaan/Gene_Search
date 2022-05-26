@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=all_genes_together_via_StorageResource
+comment1.params=dna1\ start_c\ stop_c\ question2_start
+comment1.target=int\ get_codon_position(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=dna0\ question1_start
+comment2.target=java.lang.String\ intermediate_test(java.lang.String,\ int)
+comment3.params=check_dna
+comment3.target=edu.duke.StorageResource\ find_all_genes(java.lang.String)
+comment4.params=stringa\ stringb
+comment4.target=int\ countCTG(java.lang.String,\ java.lang.String)
+comment4.text=A\ METHOD\ DIRECTLY\ COPIED\ FROM\ CLASS\ STRING_IN_STRING\ WHICH\ FINDS\ THE\ NO\ OF\ INSTANCES\ OF\ A\ STRING\ A\ IN\ STRING\ B
+comment5.params=question_gene
+comment5.target=int\ CGRATIO(java.lang.String)
+comment6.params=
+comment6.target=void\ testonfile()
+numComments=7

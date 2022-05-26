@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=all_genes_together
+comment1.params=dna1\ start_c\ stop_c\ question2_start
+comment1.target=int\ get_codon_position(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=dna0\ question1_start
+comment2.target=java.lang.String\ intermediate_test(java.lang.String,\ int)
+comment3.params=check_dna
+comment3.target=void\ find_all_genes(java.lang.String)
+comment4.params=
+comment4.target=void\ testonfile()
+numComments=5
